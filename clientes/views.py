@@ -13,6 +13,6 @@ class ClientesViewSet(viewsets.ModelViewSet):
     search_fields = ['nome', 'cpf']
     ordering_fields = ['nome']
     filterset_fields = ['ativo']
-    permission_classes = [IsAuthenticated]
-    authentication_classes = [BasicAuthentication]
+    # permission_classes = [IsAuthenticated]
+    # authentication_classes = [BasicAuthentication]
 
