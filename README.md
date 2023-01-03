@@ -7,3 +7,6 @@ Para testa-la, faça Login com as seguintes credenciais:
 
 test
 123456
+
+_____________________________________________________________________________________________________
+Infelizmente, a aplicação não está mais Online, devido ao serviço heroku ser pago atualmente.
